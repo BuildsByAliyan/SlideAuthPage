@@ -2,8 +2,8 @@
 
 **Modern Login & Signup Page with Smooth Slide Animation**  
 
-[![GitHub Stars](https://img.shields.io/github/stars/CodeWithAliyan/SlideAuthPage?style=flat&logo=github&color=ffcb2f)](https://github.com/CodeWithAliyan/SlideAuthPage/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/CodeWithAliyan/SlideAuthPage?style=flat&logo=github&color=28a745)](https://github.com/CodeWithAliyan/SlideAuthPage/fork)
+[![GitHub Stars](https://img.shields.io/github/stars/CodeWithAliyan/SlideAuthPage?style=flat&logo=github&color=ffcb2f)](https://github.com/BuildsByAliyan/SlideAuthPage/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/CodeWithAliyan/SlideAuthPage?style=flat&logo=github&color=28a745)](https://github.com/BuildsByAliyan/SlideAuthPage/fork)
 [![GitHub License](https://img.shields.io/github/license/CodeWithAliyan/SlideAuthPage?style=flat&color=ff6b6b)](LICENSE)
 
 ---
@@ -38,7 +38,7 @@ Built with clean HTML, CSS, and JS, it’s **lightweight**, **easy to integrate*
 
 Check it out in action:  
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://codewithaliyan.github.io/SlideAuthPage/)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://BuildsByAliyan.github.io/SlideAuthPage/)  
 
 ---
 
